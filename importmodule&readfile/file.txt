@@ -1,0 +1,2 @@
+Hello all this is sathvik teja this to read content of a file using
+nodejs.
